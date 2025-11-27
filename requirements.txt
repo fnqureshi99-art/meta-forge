@@ -1,1 +1,2 @@
-google-generative-airequests
+google-generative-ai==0.3.2
+requests
