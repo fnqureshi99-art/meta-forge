@@ -1,0 +1,7 @@
+streamlit
+	google-generative-ai
+	requests
+	pandas
+	numpy
+	plotly
+	matplotlib
